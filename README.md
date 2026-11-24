@@ -17,3 +17,35 @@ You can also try [the experimental native React Compiler support in plugin-react
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# ANDRALYN ✦ | Portfolio
+
+Welcome to my personal portfolio website!
+
+## 🌐 Live Website
+
+[Explore My Portfolio](https://portfolio-andralyn.vercel.app)
+
+## 💻 Technologies Used
+
+- React.js
+- JavaScript
+- HTML & CSS
+- Material UI
+- Framer Motion
+- React Router DOM
+- Vite
+- Git & GitHub
+- Vercel
+
+## ✨ Features
+
+- Animated homepage
+- About me
+- Projects
+- Technical skills
+- Contact page
+- Custom 404 page
+
+## My Motto
+
+Turning ideas into impact.
